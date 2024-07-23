@@ -21,6 +21,8 @@ group :jekyll_plugins do
     gem 'mini_racer'
     gem 'unicode_utils'
     gem 'webrick'
+    gem 'jekyll-diagrams' # added
+    gem 'jekyll-redirect-from' # added
 end
 group :other_plugins do
     gem 'css_parser'

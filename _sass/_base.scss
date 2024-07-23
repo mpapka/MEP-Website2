@@ -684,7 +684,7 @@ footer.sticky-bottom {
       .preview {
       }
 
-      .abbr {
+/*      .abbr {
         margin-bottom: 0.5rem;
 
         abbr {
@@ -700,12 +700,31 @@ footer.sticky-bottom {
             }
           }
         }
-
+        
         .award {
           color: var(--global-theme-color) !important;
           border: 1px solid var(--global-theme-color);
+          }
+        }*/
+
+        /* Remove or comment out the styles for the abbr class */
+        .abbr {
+          margin-bottom: 0.5rem;
         }
-      }
+
+        /* Remove or comment out the styles for the abbr element */
+        abbr {
+          /* Remove the background color and padding */
+          /* background-color: var(--global-theme-color); */
+          /* padding: 5px; */
+          /* Add any necessary styles to reset the element to default */
+          background: none;
+          border: none;
+          display: inline;
+          padding: 10;
+          margin: 0;
+          color: black; /* Set the text color to black */
+        }
 
       .title {
         font-weight: bolder;
