@@ -1,0 +1,55 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Michael E. Papka
+    - name: Date of Birth
+      value: Long time ago ...
+    - name: Languages
+      value: English, C++, Python, little Fortran
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD
+      institution: University of Chicago, Chicago, IL
+      year: 2009
+    - title: MS
+      institution: University of Chicago, Chicago, IL
+      year: 2002
+    - title: MS
+      institution: University of Illinois Chicago, Chicago, IL
+      year: 1994
+    - title: BS
+      institution: Northern Illinois University, DeKalb, IL
+      year: 1990
+- title: Experience
+  type: time_table
+  contents:
+    - title: Professor of Computer Science
+      institution: University of Illinois Chicago, Chicago, IL
+      year: 2022 - Present
+    - title: Research Professor
+      institution: Illinois Institute of Technology, Chicago, IL
+      year: 2021 - Present
+    - title: Presidential RSA Professor of Computer Science
+      institution: Northern Illinois University, DeKalb, IL
+      year: 2012 - 2022
+      description:
+        - 2017 - 2020 Professor
+        - 2015 - 2017 Associate Professor (tenured)
+        - 2012 - 2015 Associate Professor
+    - title: Division Director
+      institution: Argonne National Laboratory, Lemont, IL
+      year: 2010 - Present
+    - title: Deputy Associate Laboratory Director
+      institution: Argonne National Laboratory, Lemont, IL
+      year: 2006 - Present
+    - title: Senior Scientist
+      institution: Argonne National Laboratory, Lemont, IL
+      year: 1992 - Present
+      description:
+        - 2012 - Present Senior Scientist
+        - 2000 - 2012 Scientist
+        - 1996 - 2000 Assistant Scientist
+        - 1992 - 1996 Scientist Associate

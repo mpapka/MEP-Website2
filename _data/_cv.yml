@@ -4,9 +4,9 @@
     - name: Full Name
       value: Michael E. Papka
     - name: Date of Birth
-      value: August 1, 1967
+      value: 14th March 1879
     - name: Languages
-      value: English
+      value: English, German
 
 - title: Education
   type: time_table
@@ -31,9 +31,9 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Warren McCulloch Professor of Computer Science
-      institution: University of Illinois Chicago
-      year: 2024 -
+    - title: Professor of Theoretical Physics
+      institution: Institute for Advanced Study, Princeton University
+      year: 1933 - 1955
       description:
         - Description 1.
         - Description 2.

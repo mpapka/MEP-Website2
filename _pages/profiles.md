@@ -11,14 +11,9 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     category: undergraduate
-    image: students/RickyMassa.jpeg
-    content: students/RickyMassa.md
+    image: students/AbdullahAli.png
+    content: students/AbdullahAli.md
     image_circular: true # crops the image to make it circular
-  - align: left
-    category: undergraduate
-    image: students/AaqelShaikAbdulMa.jpeg
-    content: students/AaqelShaikAbdulMa.md
-    image_circular: true # crops the image to make it circular  
   - align: right
     category: undergraduate
     image: students/AthenaAngara.jpeg
@@ -31,9 +26,66 @@ profiles:
     image_circular: true # crops the image to make it circular  
   - align: right
     category: undergraduate
-    image: students/AbdullahAli.png
-    content: students/AbdullahAli.md
+    image: students/RickyMassa.jpeg
+    content: students/RickyMassa.md
     image_circular: true # crops the image to make it circular
+  - align: left
+    category: undergraduate
+    image: students/AaqelShaikAbdulMa.jpeg
+    content: students/AaqelShaikAbdulMa.md
+    image_circular: true # crops the image to make it circular  
+
+
+  - align: right
+    category: graduate
+    image: students/ChrisGrams.png
+    content: students/ChrisGrams.md
+    image_circular: true # crops the image to make it circular
+  - align: left
+    category: graduate
+    image: students/WesleyKwiecinski.jpeg
+    content: students/WesleyKwiecinski.md
+    image_circular: true # crops the image to make it circular  
+  - align: right
+    category: graduate
+    image: students/YashKurkure.jpeg
+    content: students/YashKurkure.md
+    image_circular: true # crops the image to make it circular  
+  - align: left
+    category: graduate
+    image: students/AndrewBurks.jpeg
+    content: students/AndrewBurks.md
+    image_circular: true # crops the image to make it circular  
+  - align: right
+    category: graduate
+    image: students/ShreyasKulkarni.jpeg
+    content: students/ShreyasKulkarni.md
+    image_circular: true # crops the image to make it circular
+  - align: right
+    category: graduate
+    image: students/ChrisGrams.png
+    content: students/ChrisGrams.md
+    image_circular: true # crops the image to make it circular
+  - align: left
+    category: graduate
+    image: students/WesleyKwiecinski.jpeg
+    content: students/WesleyKwiecinski.md
+    image_circular: true # crops the image to make it circular  
+  - align: right
+    category: graduate
+    image: students/YashKurkure.jpeg
+    content: students/YashKurkure.md
+    image_circular: true # crops the image to make it circular  
+  - align: left
+    category: graduate
+    image: students/AndrewBurks.jpeg
+    content: students/AndrewBurks.md
+    image_circular: true # crops the image to make it circular  
+  - align: right
+    category: graduate
+    image: students/ShreyasKulkarni.jpeg
+    content: students/ShreyasKulkarni.md
+    image_circular: true # crops the image to make it circular  
   - align: right
     category: graduate
     image: prof_pic.jpg

@@ -33,26 +33,6 @@
       "highlights": ["Relativity"]
     }
   ],
-  "work": [
-    {
-      "name": "University of Illinois Chicago",
-      "position": "Warren McCulloch Professor of Computer Science",
-      "url": "https://example.com",
-      "startDate": "2024",
-      "endDate": "",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    },
-    {
-      "name": "University of Illinois Chicago",
-      "position": "Professor of Computer Science",
-      "url": "https://example.com",
-      "startDate": "2022",
-      "endDate": "2024",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
   "volunteer": [
     {
       "organization": "People's Climate March",
