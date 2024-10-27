@@ -3,7 +3,7 @@ layout: post
 date: 2024-04-30 07:59:00-0400
 inline: true
 ---
-UIC Students are well represented at [GCASR Workshop](https://gcasr.org/2024/) 2024:
+[SPEAR lab](https://spear.lab.uic.edu) and [EVL](https://www.evl.uic.edu) are well represented at [GCASR Workshop](https://gcasr.org/2024/) 2024:
 
 - _A Systematic Approach to Advance the Understanding of Digital Twin Technologies_, **Hal Brynteson**, **Athena Angara**, **Fatima Jassim**, Victor Mateevitsi, Silvio Rizzi, Nicola Ferrier, Michael E. Papka
 - _Digital Twin for Smart Resource Management in HPC_, **Yash Kurkure**, Micheal E. Papka, Zhilling Lan
